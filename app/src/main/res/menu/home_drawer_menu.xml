@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Menu">
+        <menu>
+            <item
+                android:id="@+id/card_receipt_menu_item"
+                android:title="Card Receipt"
+                />
+            <!--
+            <item
+                android:id="@+id/menu_item_2"
+                android:title="Menu 2"
+                />
+            -->
+
+        </menu>
+    </item>
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/ip_menu_item"
+                android:title="Settings"
+                />
+            <item
+                android:id="@+id/exit_menu_item"
+                android:title="Exit"
+                />
+
+        </menu>
+    </item>
+</menu>
